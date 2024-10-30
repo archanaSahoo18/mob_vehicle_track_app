@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mob_vehicle_track_app/static/css/main.554e76e1.css",
+    "main.js": "/mob_vehicle_track_app/static/js/main.302a8980.js",
+    "static/js/453.7cbe613e.chunk.js": "/mob_vehicle_track_app/static/js/453.7cbe613e.chunk.js",
+    "index.html": "/mob_vehicle_track_app/index.html",
+    "main.554e76e1.css.map": "/mob_vehicle_track_app/static/css/main.554e76e1.css.map",
+    "main.302a8980.js.map": "/mob_vehicle_track_app/static/js/main.302a8980.js.map",
+    "453.7cbe613e.chunk.js.map": "/mob_vehicle_track_app/static/js/453.7cbe613e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554e76e1.css",
+    "static/js/main.302a8980.js"
+  ]
+}
