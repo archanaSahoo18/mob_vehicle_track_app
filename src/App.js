@@ -6,7 +6,7 @@ import ChangePassword from './Component/ChangePassword';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/mob_vehicle_track_app"> {/* Set the basename */}
       <Routes>
         <Route path="/" element={<LoginPage />} />
         <Route path="/register" element={<RegisterPage />} />
