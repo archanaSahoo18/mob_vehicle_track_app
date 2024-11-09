@@ -88,3 +88,11 @@
   margin-left: 3%;
   margin-right: 3%;
 }
+.track-button {
+  margin: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+.map-container {
+  margin-top: 20px;
+}
