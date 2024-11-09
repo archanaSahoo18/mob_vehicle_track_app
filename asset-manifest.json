@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mob_vehicle_track_app/static/css/main.554e76e1.css",
-    "main.js": "/mob_vehicle_track_app/static/js/main.18b6438e.js",
+    "main.css": "/mob_vehicle_track_app/static/css/main.ed71076f.css",
+    "main.js": "/mob_vehicle_track_app/static/js/main.29dc603f.js",
     "static/js/453.7cbe613e.chunk.js": "/mob_vehicle_track_app/static/js/453.7cbe613e.chunk.js",
     "index.html": "/mob_vehicle_track_app/index.html",
-    "main.554e76e1.css.map": "/mob_vehicle_track_app/static/css/main.554e76e1.css.map",
-    "main.18b6438e.js.map": "/mob_vehicle_track_app/static/js/main.18b6438e.js.map",
+    "main.ed71076f.css.map": "/mob_vehicle_track_app/static/css/main.ed71076f.css.map",
+    "main.29dc603f.js.map": "/mob_vehicle_track_app/static/js/main.29dc603f.js.map",
     "453.7cbe613e.chunk.js.map": "/mob_vehicle_track_app/static/js/453.7cbe613e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.554e76e1.css",
-    "static/js/main.18b6438e.js"
+    "static/css/main.ed71076f.css",
+    "static/js/main.29dc603f.js"
   ]
 }
