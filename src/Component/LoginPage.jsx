@@ -21,7 +21,7 @@ const LoginPage = () => {
       if (username === 'MobUser' && password === 'mob') {
         setError('Password Validated');
         console.log("Logging in with:", { username, password });
-        navigate("/bikeTrack")
+        navigate("/bikeTrackMenu")
         // Successful login logic here (e.g., navigate to another page)
       } else {
         setError('Invalid username or password.');
