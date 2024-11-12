@@ -4,6 +4,7 @@ import LoginPage from './Component/LoginPage';
 import RegisterPage from './Component/RegisterPage';
 import ChangePassword from './Component/ChangePassword';
 import GoogleMapTrack from './Component/GoogleMapTrack';
+import BikeTrackingMenu from './Component/BikeTrackingMenu';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/register" element={<RegisterPage />} />
         <Route path="/changePassword" element={<ChangePassword />} />
         <Route path="/maptrack" element={<GoogleMapTrack />} />
+        <Route path="/bikeTrack" element={<BikeTrackingMenu />} />
       </Routes>
     </Router>
   );

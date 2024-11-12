@@ -96,3 +96,73 @@
 .map-container {
   margin-top: 20px;
 }
+/* src/BikeTrackingMenu.css */
+.bike-tracking-menu {
+  width: 80%;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #0052cc;
+}
+
+.bike-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 1em 0;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.bike-card:hover {
+  transform: scale(1.02);
+}
+
+h2 {
+  color: #0052cc;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  color: #0052cc;
+  margin-right: 0.5em;
+}
+
+.bike-info {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1em;
+  gap: 1em;
+}
+
+.info-item {
+  flex: 1 1 45%;
+  display: flex;
+  align-items: center;
+  font-size: 0.9em;
+}
+
+.info-item span {
+  margin-left: 0.5em;
+}
+
+/* Color indicators for battery levels */
+.info-item .FaBatteryFull {
+  color: #4caf50;
+}
+
+.info-item .FaTachometerAlt {
+  color: #ffa726;
+}
+
+.info-item .FaMapMarkerAlt {
+  color: #ef5350;
+}
+
